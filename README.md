@@ -1,1 +1,1 @@
-# phonebook_project
+# phonebook_for_storing_contacts_and_notes
